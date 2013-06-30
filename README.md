@@ -1,6 +1,6 @@
 # BitTorrent Sync Puppet Module for Boxen
 [![Build
-Status](https://travis-ci.org/MoOx/puppet-btsync.png?branch=master)](https://travis-ci.org/MoOx/puppet-btsync)
+Status](https://travis-ci.org/boxen/puppet-btsync.png?branch=master)](https://travis-ci.org/boxen/puppet-btsync)
 
 Install [BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html), an easy way to share files
 and folders.
