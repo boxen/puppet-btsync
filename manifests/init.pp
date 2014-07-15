@@ -6,6 +6,6 @@
 class btsync {
   package { 'BTSync':
     provider => 'appdmg',
-    source   => 'http://btsync.s3-website-us-east-1.amazonaws.com/BTSync.dmg'
+    source   => 'http://download-lb.utorrent.com/endpoint/btsync/os/osx/track/stable'
   }
 }
